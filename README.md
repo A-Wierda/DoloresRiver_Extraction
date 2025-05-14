@@ -1,5 +1,5 @@
 # DoloresRiver_Extraction
-This code using NAIP imagery extract the Dolores River and calculates its surface area over time. 
+This code using NAIP imagery and the Random Forest classifier to extract the Dolores River and calculates its surface area over time. 
 
 ## Geometries
 1. Download DEM data from GEE for export into ArcGIS to caluclate sinuosity
